@@ -18,7 +18,7 @@ CSS
 
 ---
 ## 📸 Screenshots
-![Frond end task tracker](frontend.png)
+![Frond end task tracker](front%20end.png)
 
 ---
 ## ▶️ How to Run the Project
