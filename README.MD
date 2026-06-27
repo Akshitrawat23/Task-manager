@@ -18,7 +18,7 @@ CSS
 
 ---
 ## 📸 Screenshots
-Home
+![All Regions Dashboard](all_region.png)
 
 ---
 ## ▶️ How to Run the Project
