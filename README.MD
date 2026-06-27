@@ -1,24 +1,24 @@
-✅ Task Tracker
-📌 About
+#✅ Task Tracker
+##📌 About
 This is a simple Task Tracker web application that helps users manage their daily tasks efficiently. Users can add, view, and manage tasks in a clean and minimal interface.
 
 ---
 
-🚀 Features
+## 🚀 Features
 ➕ Add new tasks
 ❌ Delete tasks
 ✔️ Mark tasks as completed
 🧾 Simple and user-friendly UI
 
 ---
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML
 CSS
 
 ---
-📸 Screenshots
+## 📸 Screenshots
 Home
 
 ---
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 Download or clone this repository
