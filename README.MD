@@ -18,7 +18,7 @@ CSS
 
 ---
 ## 📸 Screenshots
-![All Regions Dashboard](all_region.png)
+![Frond end task tracker](front end.png)
 
 ---
 ## ▶️ How to Run the Project
