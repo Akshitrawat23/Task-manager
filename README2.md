@@ -23,7 +23,7 @@ This is a simple Task Tracker web application that helps users manage their dail
 
 ![Home](frontend.png)  
 
----
+----
 
 ## ▶️ How to Run the Project
 1. Download or clone this repository  
